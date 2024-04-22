@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 //this code written by Can Çetin
+//gmail:bayramcan1515@gmail.com.tr
+//Date:4.22.2024 US date format
 //This c code defines a function that finds the largest number in an array and prints it out.
 //This code also defines a macro for pi.
 
