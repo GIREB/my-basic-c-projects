@@ -21,8 +21,8 @@ int main(){
     char myDnacode[] = "ATCG";
     //these two lines are the same
     printf("Length of the array is %d\n",findlengthofarray(myDnacode));
-    //or
-    printf("Length of the array is %d\n",strlen(myDnacode));
+    printf("Length of the array is %d\n", (int)strlen(myDnacode));
+    
     return 0;
 
 }
